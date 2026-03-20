@@ -1,5 +1,5 @@
 # Magnetic Levitation Automation System
-
+ 
 A production-ready Python repository for simulating, analyzing, and extending a **magnetic levitation (maglev) automation system** using classical feedback control and optional intelligent control strategies.
 
 This project is designed to be suitable for a final-year engineering project and demonstrates:
